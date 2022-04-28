@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -25,10 +25,6 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Infrastructure\MessageApp.Infrastructure\MessageApp.Infrastructure.csproj" />
     <ProjectReference Include="..\..\Infrastructure\MessageApp.Presistence\MessageApp.Presistence.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Controllers\" />
   </ItemGroup>
 
 </Project>
