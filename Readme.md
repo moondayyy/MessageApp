@@ -4,7 +4,15 @@
 
 ## Ekip Bildirim Formu:
 **185541013** - Abdullah AYGÜN
+
+------------
+
+
 **185541025** - Mustafa Bilal TÜRKYILMAZ
+
+------------
+
+
 **185541065** - Eyüp Ensar KASAP
 ## Sürüm Kontrol Deposu:
 https://github.com/abdullahaygun/MessageApp
