@@ -33,7 +33,7 @@ app.UseCookiePolicy();
 app.UseCors();
 app.UseRouting();
 //app.UseAuthentication();
-app.UseAuthorization();
+//app.UseAuthorization();
 app.MapControllers();
 
 if (app.Environment.IsProduction())

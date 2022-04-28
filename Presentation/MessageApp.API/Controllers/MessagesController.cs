@@ -107,7 +107,7 @@ namespace MessageApp.API.Controllers
                     Content = privateMessageViewModel.Content,
                     CreatedDate = DateTime.UtcNow,
                     FromUserId = senderUserId,
-                    ToUserId = senderUserId,
+                    ToUserId = reciverUserId,
                     FromUser = senderUser,
                     IsActive = true
 
