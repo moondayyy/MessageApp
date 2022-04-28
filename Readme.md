@@ -15,7 +15,7 @@
 
 **185541065** - Eyüp Ensar KASAP
 ## Sürüm Kontrol Deposu:
-https://github.com/abdullahaygun/MessageApp
+**https://github.com/abdullahaygun/MessageApp**
 ## Takım Rehberi:
 **[Takım Rehberi](https://docs.google.com/document/d/1DI29XkOqAbi_z1QsAwWhK8OM3g0ywymv/edit?usp=sharing&ouid=113278678872864919279&rtpof=true&sd=true "Takım Rehberi")**
 ## Projeye Genel Bakış Dokümanı:
