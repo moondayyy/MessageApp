@@ -36,9 +36,9 @@ Fiziksel olarak ise:
 **[Alfa Sürüm](https://github.com/abdullahaygun/MessageApp/tree/alfa "Alfa Sürüm")**
 
 ## Şifreleme Algoritmaları:
-Mersanne Twister: **[MersanneTwister.zip](https://drive.google.com/file/d/1bhWQJ3sYlxDmicbJOwBFL3rNBCJ4PofT/view?usp=sharing "MersanneTwister.zip")**
-Xorshiro: **[Xorshiro.zip](https://drive.google.com/file/d/1-7KVO16JvGBheEbafaRQl1AM3epNPjcR/view?usp=sharing "Xorshiro.zip")**
-PCG: **[PCG.zip](https://drive.google.com/file/d/1Oodqw9nwP2spTH1g8xwown8wpVEufoQB/view?usp=sharing "PCG.zip")**
+1. Mersanne Twister: **[MersanneTwister.zip](https://drive.google.com/file/d/1bhWQJ3sYlxDmicbJOwBFL3rNBCJ4PofT/view?usp=sharing "MersanneTwister.zip")**
+1. Xorshiro: **[Xorshiro.zip](https://drive.google.com/file/d/1-7KVO16JvGBheEbafaRQl1AM3epNPjcR/view?usp=sharing "Xorshiro.zip")**
+1. PCG: **[PCG.zip](https://drive.google.com/file/d/1Oodqw9nwP2spTH1g8xwown8wpVEufoQB/view?usp=sharing "PCG.zip")**
 **oooooooooooooooo----------------VİZE----------------oooooooooooooooo**
 
 **oooooooooooooooo----------------FİNAL----------------oooooooooooooooo**
