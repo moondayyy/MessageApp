@@ -27,8 +27,4 @@
     <ProjectReference Include="..\..\Infrastructure\MessageApp.Presistence\MessageApp.Presistence.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>
