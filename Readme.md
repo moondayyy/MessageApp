@@ -26,9 +26,9 @@ https://github.com/abdullahaygun/MessageApp
 Oynatma Listesi Link: **[Haftalık Toplantılar Oynatma Listesi](https://youtube.com/playlist?list=PLj5_E8OeYZfhFLDgQHBE27w0qkxCDWQiB "Haftalık Toplantılar Oynatma Listesi")**
 ## Prototip:
 Haftalık durum toplantıları videolarında arasında prototipler de yer almaktadır. Fiziksel olarak ise:
-**[Prototip-1(UsersController)](https://github.com/abdullahaygun/MessageApp/tree/UsersController "Prototip-1(UsersController)")**
-**[Prototip-2(MessagesController)](https://github.com/abdullahaygun/MessageApp/tree/MessagesController "Prototip-2(MessagesController)")**
-**[Prototip-3(GroupsController)](https://github.com/abdullahaygun/MessageApp/tree/GroupsController "Prototip-3(GroupsController)")**
+1. **[Prototip-1(UsersController)](https://github.com/abdullahaygun/MessageApp/tree/UsersController "Prototip-1(UsersController)")**
+1. **[Prototip-2(MessagesController)](https://github.com/abdullahaygun/MessageApp/tree/MessagesController "Prototip-2(MessagesController)")**
+1. **[Prototip-3(GroupsController)](https://github.com/abdullahaygun/MessageApp/tree/GroupsController "Prototip-3(GroupsController)")**
 
 ## Alfa Sürümü:
 Haftalık durum toplantıları videolarında arasında alfa sürüm de yer almaktadır. 
