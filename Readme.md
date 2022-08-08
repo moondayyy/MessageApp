@@ -22,8 +22,6 @@
 **[Projeye Genel Bakış Belgesi](https://docs.google.com/document/d/1tVOt_v48So_Lc40HWQLUobmYag2CjnY5DMugi0OURYA/edit?usp=sharing "Projeye Genel Bakış Belgesi")**
 ## Zaman Çizelgesi Belgesi:
 **[Zaman Çizelgesi.png](https://drive.google.com/file/d/133_0hTiDL9ULtkLy1w7skzd5G2ZX-0YZ/view?usp=sharing "Zaman Çizelgesi.png")**
-## Haftalık Durum Toplantıları:
-Oynatma Listesi Link: **[Haftalık Toplantılar Oynatma Listesi](https://youtube.com/playlist?list=PLj5_E8OeYZfhFLDgQHBE27w0qkxCDWQiB "Haftalık Toplantılar Oynatma Listesi")**
 ## Prototip:
 Haftalık durum toplantıları videolarında arasında prototipler de yer almaktadır. Fiziksel olarak ise:
 1. **[Prototip-1(UsersController)](https://github.com/abdullahaygun/MessageApp/tree/UsersController "Prototip-1(UsersController)")**
